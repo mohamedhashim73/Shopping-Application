@@ -1,4 +1,4 @@
-I made WhatsApp clone user interface using Dart & Flutter & State Management Provider
+I made WhatsApp clone UI using Dart & Flutter & State Management Provider
 
 ![Screenshot_2022-04-13-19-12-11-07_69d7fbce023ccd254baf89965a95ff0e](https://user-images.githubusercontent.com/101535118/163235756-09ca34f9-1a57-4724-a5c7-08edcb53ae80.jpg)
 ![Screenshot_2022-04-13-19-12-24-09_69d7fbce023ccd254baf89965a95ff0e](https://user-images.githubusercontent.com/101535118/163235769-ade530fd-a327-4cd4-8eb7-2aa9519884b5.jpg)
